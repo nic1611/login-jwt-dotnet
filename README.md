@@ -1,6 +1,5 @@
 <h4 align="center">
-<img src=".github/logo.png" width="250px" /><br>
- <b>Login e Resgister project, using angular and dotnet</b> ♻️🔋
+ <b>Login e Resgister project, using angular and dotnet</b>
 </h4>
 
 <br>
@@ -29,7 +28,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 <b>[Git](https://git-scm.com)</b>
 
-<b>[Node.js](https://nodejs.org/en/)</b>]
+<b>[Node.js](https://nodejs.org/en/)</b>
 
 <b>[dotnet](https://dotnet.microsoft.com/)</b>
 
@@ -77,7 +76,7 @@ $ ng serve -o
 # A aplicação será aberta na porta:4200 - acesse http://localhost:4200
 ```
 
-### :recycle: Como contribuir
+### Como contribuir
 
 - Fork esse repositório;
 - Crie uma branch com a sua feature: `git checkout -b my-feature`
