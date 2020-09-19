@@ -1,5 +1,5 @@
 <h4 align="center">
- <b>Login e Resgister project, using angular and dotnet</b>
+ <b>Login & Resgister project, using angular and dotnet</b>
 </h4>
 
 <br>
